@@ -1,0 +1,22 @@
+{
+  "name": "free-reg",
+  "version": "1.0.0",
+  "description": "regular collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyl15/free-reg.git"
+  },
+  "keywords": [
+    "regular"
+  ],
+  "author": "tracy-ting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangyl15/free-reg/issues"
+  },
+  "homepage": "https://github.com/huangyl15/free-reg#readme"
+}
